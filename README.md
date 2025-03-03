@@ -1,3 +1,4 @@
+pacman -Sy --noconfirm wget && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/SSH/Pacman/ssh-pac.sh --no-check-certificate && bash ssh-pac.sh
 
 # Termux:X11
 
